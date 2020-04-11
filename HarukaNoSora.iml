@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$MODULE_DIR$/libs/AnimatedTransitions.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/libs/AppFramework.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/libs/beautyeye_lnf.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/libs/holidays__V1.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/libs/jackson-core-2.8.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/libs/jackson-core-asl-1.9.13.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/libs/jackson-mapper-asl-1.9.13.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/libs/jardiff.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/libs/jedis-2.9.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/libs/jhcore__V1.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/libs/jlfgr__V1.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/libs/jnlp-servlet.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/libs/jnlp.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/libs/json-jena-1.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/libs/Msc.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/libs/mytuling.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/libs/myyuyin.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/libs/ninepatch4j.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/libs/pinyin4j-2.5.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/libs/swing-worker.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/libs/swingx.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/libs/swt.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/libs/TimingFramework.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/libs/camera.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/libs/opencv-249.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/libs/faceppsdk_min.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/libs/activation.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/libs/javax_mail.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/libs/mediaplayer.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/libs/multiplayer.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/libs/myfacepp.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/libs/customizer.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/libs/jmf.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/libs/sound.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/libs/gson-2.8.6.jar!/" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="jdk" jdkName="JavaSE-1.8" jdkType="JavaSDK" />
+    <orderEntry type="module-library">
+      <library name="AnimatedTransitions.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/libs/AnimatedTransitions.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="AppFramework.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/libs/AppFramework.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="beautyeye_lnf.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/libs/beautyeye_lnf.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="holidays__V1.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/libs/holidays__V1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jackson-core-2.8.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/libs/jackson-core-2.8.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jackson-core-asl-1.9.13.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/libs/jackson-core-asl-1.9.13.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jackson-mapper-asl-1.9.13.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/libs/jackson-mapper-asl-1.9.13.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jardiff.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/libs/jardiff.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jedis-2.9.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/libs/jedis-2.9.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jhcore__V1.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/libs/jhcore__V1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jlfgr__V1.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/libs/jlfgr__V1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jnlp-servlet.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/libs/jnlp-servlet.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jnlp.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/libs/jnlp.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="json-jena-1.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/libs/json-jena-1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Msc.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/libs/Msc.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mytuling.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/libs/mytuling.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="myyuyin.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/libs/myyuyin.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ninepatch4j.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/libs/ninepatch4j.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="pinyin4j-2.5.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/libs/pinyin4j-2.5.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="swing-worker.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/libs/swing-worker.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="swingx.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/libs/swingx.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="swt.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/libs/swt.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="TimingFramework.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/libs/TimingFramework.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="camera.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/libs/camera.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="opencv-249.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/libs/opencv-249.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <NATIVE>
+          <root url="file://HarukaNoSora" />
+        </NATIVE>
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="faceppsdk_min.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/libs/faceppsdk_min.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="activation.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/libs/activation.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="javax_mail.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/libs/javax_mail.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mediaplayer.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/libs/mediaplayer.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="multiplayer.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/libs/multiplayer.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="myfacepp.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/libs/myfacepp.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="customizer.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/libs/customizer.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jmf.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/libs/jmf.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="sound.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/libs/sound.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="gson-2.8.6.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/libs/gson-2.8.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
